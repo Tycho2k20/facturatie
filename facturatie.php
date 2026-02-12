@@ -1,5 +1,5 @@
 <?php
-    $page = "index";
+    $page = "facturatie";
     require_once("includes/config.inc.php");
 
     require_once("includes/header.inc.php");
